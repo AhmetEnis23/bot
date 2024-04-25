@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "tmi.js": "^1.8.5"
+  },
+  "name": "botucuk",
+  "version": "0.0.3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AhmetEnis23",
+  "license": "ISC",
+  "description": ""
+}
