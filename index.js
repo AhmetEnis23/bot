@@ -7,7 +7,7 @@ const client = new tmi.Client({
     username: 'BotTutor',
     password: process.env.TOKEN
   },
-  channels: ['sibertutor''ahmetenis23']
+  channels: ['sibertutor']
 });
 client.connect().catch(console.error);
 client.on('message', (channel, tags, message, self) => {
